@@ -71,7 +71,7 @@
         </dependency> -->
         
         <dependency>
-		    <groupId>com.github.cloudhubs</groupId>
+		    <groupId>com.github.M3SOulu</groupId>
 		    <artifactId>prophet-utils</artifactId>
 		    <version>expansion-base-SNAPSHOT</version>
 		</dependency>
